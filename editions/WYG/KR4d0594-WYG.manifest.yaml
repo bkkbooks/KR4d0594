@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR4d0594/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4d0594/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 石門集
+  date: '2015-08-25 00:15:44.749200'
+  source:
+    repository: kanripo
+    path: KR4d0594
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0594_000-WYG.yaml, hash: 'sha256:8833f3c6839f7979192818dac34bd2465301038b487489be6569dacad27de736'}
+  - {seq: 1, filename: KR4d0594_001-WYG.yaml, hash: 'sha256:881c6543959ced5e351b367bd767d6a5ef68e42c3cbc5df770bca3b047f0d186'}
+  - {seq: 2, filename: KR4d0594_002-WYG.yaml, hash: 'sha256:ac659f8ebbd0a37e44d7e6f9b13831fca10e43d0ce5b0faf39c68bb90612b415'}
+  - {seq: 3, filename: KR4d0594_003-WYG.yaml, hash: 'sha256:51620bc7103663458cca114c81eaa419986637dfd015ec0c19163d4b2483f781'}
+  - {seq: 4, filename: KR4d0594_004-WYG.yaml, hash: 'sha256:a6c9ae061258d8a6cbeb2e5a685c44e5bbcc48606683eaf3300521e30ee41255'}
+  - {seq: 5, filename: KR4d0594_005-WYG.yaml, hash: 'sha256:6ac3c4ac851b9de6a68ac04f3ad62e61c05bb948d6c8d5c701534fd084d66a01'}
+  - {seq: 6, filename: KR4d0594_006-WYG.yaml, hash: 'sha256:174dad995e51516fc1db28e8705eedfe2552fc417f8e70b994d4c0736a90f5bb'}
+  - {seq: 7, filename: KR4d0594_007-WYG.yaml, hash: 'sha256:d9102779f3b9b6b9902c581f1262d0b888b03528b4a632628a4f25d360583fa6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0594_000-WYG.markers.yaml, hash: 'sha256:9774dd8ff116af46baddec757373a2ba47ac3c877d0a60c38db2ed1b9e508ed9'}
+  - {seq: 1, role: markers, filename: assets/KR4d0594_001-WYG.markers.yaml, hash: 'sha256:56c50851a4118db6825f8ce9717cb26af4b5af03961e540f764a807a6bb4a051'}
+  - {seq: 2, role: markers, filename: assets/KR4d0594_002-WYG.markers.yaml, hash: 'sha256:dc3176cdeed1e43aedde775da9e14d08ea0a27ef60a6c93203efb96388f93c2c'}
+  - {seq: 3, role: markers, filename: assets/KR4d0594_003-WYG.markers.yaml, hash: 'sha256:b20d79e42d77b31830e55904d964912cd2be44cbcf757f7866f592c74ddb5ae5'}
+  - {seq: 4, role: markers, filename: assets/KR4d0594_004-WYG.markers.yaml, hash: 'sha256:2d7c849c3c46ff59c3530059f33565b170da824595301153585608cc7fac9200'}
+  - {seq: 5, role: markers, filename: assets/KR4d0594_005-WYG.markers.yaml, hash: 'sha256:4dfd741d60edb218e52bef29c0e4340ad28fda52570bb841e7a0bee2eb763302'}
+  - {seq: 6, role: markers, filename: assets/KR4d0594_006-WYG.markers.yaml, hash: 'sha256:9a69bb458bd63f512ceb9755ca6f7c68d24b877b4167bc2aad9f62a68cf00f5a'}
+  - {seq: 7, role: markers, filename: assets/KR4d0594_007-WYG.markers.yaml, hash: 'sha256:a918941768b0f816784bee68786bf98aff8ac4189538a23d4acccf5245529278'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0594_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 399
+  label: 目錄
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0594_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 1549
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4d0594_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 4894
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4d0594_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 2556
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4d0594_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 3944
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4d0594_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 2088
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4d0594_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 5309
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4d0594_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 3690
+  label: 卷七
+  type: section
+  level: 1
+hash: sha256:1aac6e72a6e5d3d4fcebe3cad24566003f291acb5f25ece2d979f9ecb1af26ef
